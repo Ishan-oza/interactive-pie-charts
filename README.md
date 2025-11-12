@@ -21,7 +21,7 @@ Instead of writing new code every time you want to make a pie chart, this script
    cd python-piechart-generator
 ```
 2. Run the script:
-   ```python
+   ```bash
    python3 dv.py
 ```
 3. Enter your data when prompted, and your pie chart will be generated.
