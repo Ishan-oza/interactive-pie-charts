@@ -19,11 +19,11 @@ Instead of writing new code every time you want to make a pie chart, this script
    ```bash
    git clone https://github.com/YOUR-USERNAME/python-piechart-generator.git
    cd python-piechart-generator
-```
+
 2. Run the script:
-   ```bash
+   ```python3
    python3 dv.py
-```
+
 3. Enter your data when prompted, and your pie chart will be generated.
 
 Enter the number of inputs for Labels: 4
